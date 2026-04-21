@@ -45,6 +45,8 @@ Data is sent to **ThingSpeak** for real-time monitoring and analysis.
 
 ## 📷 Images
 ![image alt]()
+![image alt]()
+![image alt]()
 
 ## 🎯 Applications
 
