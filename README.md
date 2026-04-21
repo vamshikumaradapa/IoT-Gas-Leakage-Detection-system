@@ -44,7 +44,7 @@ Data is sent to **ThingSpeak** for real-time monitoring and analysis.
 | DHT11       | D5  |
 
 ## 📷 Images
-![image alt]()
+![image alt](https://github.com/vamshikumaradapa/IoT-Gas-Leakage-Detection-system/blob/2aae022d5ca9d0be305c32735056dd1be1ed27db/Circuit%20Daigram.png)
 ![image alt]()
 ![image alt]()
 
@@ -53,14 +53,6 @@ Data is sent to **ThingSpeak** for real-time monitoring and analysis.
 * Home safety systems
 * Industrial gas monitoring
 * Smart IoT-based alert systems
-
-
-## 🧠 Future Improvements
-
-* Mobile app notification (Blynk/Telegram)
-* Automatic gas valve shutdown
-* SMS alerts using GSM module
-
 
 ## 👨‍💻 Author
 
