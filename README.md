@@ -43,9 +43,8 @@ Data is sent to **ThingSpeak** for real-time monitoring and analysis.
 | Buzzer      | D2  |
 | DHT11       | D5  |
 
-## 💻 Code
-
-The complete Arduino code is available in this repository.
+## 📷 Images
+![image alt]()
 
 ## 🎯 Applications
 
