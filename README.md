@@ -46,7 +46,7 @@ Data is sent to **ThingSpeak** for real-time monitoring and analysis.
 ## 📷 Images
 ![image alt](https://github.com/vamshikumaradapa/IoT-Gas-Leakage-Detection-system/blob/2aae022d5ca9d0be305c32735056dd1be1ed27db/Circuit%20Daigram.png)
 ![image alt](https://github.com/vamshikumaradapa/IoT-Gas-Leakage-Detection-system/blob/e583b05040fd948011861183afeb0070d6b83181/Output%20Of%20the%20Project.png)
-![image alt]()
+![image alt](https://github.com/vamshikumaradapa/IoT-Gas-Leakage-Detection-system/blob/0c8fd7b4eeb7fd66eb51dd3a994af93f6ff3286d/Data%20Uploaded%20to%20the%20System.png)
 
 ## 🎯 Applications
 
